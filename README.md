@@ -3,17 +3,19 @@ Phonepe_Pulse_Data_Visualization
 This project retrieves data from the PhonePe Pulse Github repository, transforms it, and stores it in a MySQL database. It then creates an interactive dashboard using Streamlit and Plotly to visualize the data.
 
 Prerequisites
-Python 3.x
 
-Git
+    Python 3.x
 
-MySQL
+     Git
 
-Installation image
+     MySQL
+
 Clone the repository:
+
 git clone https://github.com/username/repo.git
 
 Install the required packages:
+
 pip install -r requirements.txt
 
 Configure the MySQL database by editing the config.ini file with your credentials.
